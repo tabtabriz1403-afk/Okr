@@ -1,0 +1,6 @@
+{
+  "name": "سامانه برنامه‌ریزی سالانه و داشبورد OKR",
+  "description": "سامانه جامع پایش و تجمیع اطلاعات ۱۱ گروه سازمانی از گوگل شیت، داشبورد مانده‌گیری هوشمند، ارزیابی پیشرفت فصلی و ماهانه OKRها و چک‌لیست روتین‌ها.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
